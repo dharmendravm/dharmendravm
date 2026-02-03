@@ -1,28 +1,41 @@
-Hi, I'm Dharmendra Verma 👋
-==========================
-
+Dharmendra Verma
 MERN Stack Developer
 
-I build real-world, production-style web applications using the MERN stack.
-My focus is on backend logic, REST API design, authentication, and writing
-clean, maintainable React user interfaces.
+I am a MERN Stack Developer who builds real-world, production-style web applications with a strong focus on backend development and scalable application architecture.
 
-I like working on complete application flows — from frontend UI to backend
-services and database design.
+I specialize in REST API design, authentication and authorization, database modeling, and writing clean, maintainable React user interfaces. I enjoy working on complete end-to-end application flows, from frontend UI to backend services and MongoDB schema design.
 
-- 🌍 Based in Jaipur, India  
-- ✉️ Contact: itsdharmendrav@gmail.com  
-- 🧠 Currently learning backend architecture, API optimization,
-  and production best practices  
-- 👥 Open to collaborating on real-world MERN projects, especially
-  backend and full-stack features
+I have successfully completed my MERN Stack training and now focus on applying production-level best practices in real projects.
 
-### Tech Stack
+What I Work With:
+- Designing secure and scalable REST APIs
+- Implementing authentication using JWT and role-based access
+- Backend performance optimization and API response handling
+- Building reusable and clean React components
+- Managing application state with Redux
 
-- JavaScript
-- React
+Current Focus:
+- Backend architecture and scalability
+- API optimization and error handling
+- Production-level coding standards
+- Writing clean, readable, and maintainable code
+
+Open For:
+- Junior / Fresher MERN Stack Developer roles
+- Backend-heavy full-stack projects
+- Real-world MERN collaboration projects
+
+Tech Stack:
+- JavaScript (ES6+)
+- React.js
 - Node.js
 - Express.js
 - MongoDB
-- Tailwind CSS
 - Redux
+- Tailwind CSS
+
+Location:
+Jaipur, India
+
+Contact:
+itsdharmendrav@gmail.com
