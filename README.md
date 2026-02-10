@@ -8,3 +8,4 @@ I enjoy working end-to-end—from API design to frontend integration—following
 
 Tech: JavaScript | React | Node.js | Express | MongoDB | Redux | Tailwind  
 Location: Jaipur, India  
+   
